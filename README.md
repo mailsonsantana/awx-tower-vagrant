@@ -1,1 +1,1 @@
-# awx-ansible-vagrant
+# awx-tower-vagrant
