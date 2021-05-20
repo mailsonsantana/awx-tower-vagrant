@@ -1,0 +1,8 @@
+[dbserver]
+192.168.0.110 ansible_user=vagrant ansible_ssh_private_key_file=/home/mailson/projeto-ansible/.vagrant/machines/database/virtualbox/private_key
+
+[ansibleserver]
+192.168.0.112 ansible_user=vagrant ansible_ssh_private_key_file=/home/mailson/projeto-ansible/.vagrant/machines/ansibleserver/virtualbox/private_key
+
+[awx]
+192.168.0.112 ansible_user=vagrant ansible_ssh_private_key_file=/home/mailson/projeto-ansible/.vagrant/machines/ansibleserver/virtualbox/private_key

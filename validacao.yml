@@ -1,0 +1,5 @@
+---
+ - hosts: all
+   tasks:
+    - name: Boas Vindas
+      shell: echo "Bem vindo!"
